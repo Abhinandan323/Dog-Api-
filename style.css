@@ -1,0 +1,23 @@
+div.btn{
+    margin: 10px;
+    padding: 10px;
+}
+#dog_breed_detail{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  #card{
+    height: 100%;
+    width: 25%;
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+  }
+  #card #ul_doglist{
+    display: flex;
+    flex-wrap: wrap;;
+    padding: 10px;
+  }
